@@ -35,4 +35,4 @@ ImageGrid(
 )
 ```
 
-Check out the [example](https://github.com/dl8sd11/flutter_image_grid/tree/main/example) for the full demo.
+Check out the [example](https://github.com/dl8sd11/flutter_image_grid_layout/tree/main/example) for the full demo.

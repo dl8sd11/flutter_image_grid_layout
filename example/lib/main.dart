@@ -1,6 +1,6 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:image_grid/image_grid.dart';
+import 'package:image_grid_layout/image_grid_layout.dart';
 
 void main() {
   runApp(const MainApp());

@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  image_grid:
+  image_grid_layout:
     path:
       ../
 

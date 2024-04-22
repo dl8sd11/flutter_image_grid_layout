@@ -1,8 +1,8 @@
-library image_grid;
+library image_grid_layout;
 
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:image_grid/image_row.dart';
+import 'package:image_grid_layout/image_row.dart';
 
 class ImageGrid extends StatelessWidget {
   const ImageGrid({
