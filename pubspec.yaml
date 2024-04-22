@@ -1,7 +1,7 @@
 name: image_grid_layout
-description: "A new Flutter package project."
+description: "A simple flutter widget that displays Image widgets in a lively layout."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/dl8sd11/flutter_image_grid"
 
 environment:
   sdk: '>=3.2.4 <4.0.0'
