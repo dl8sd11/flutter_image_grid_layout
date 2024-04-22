@@ -16,7 +16,17 @@ A simple flutter widget that displays Image widgets in a lively layout.
 
 ## Getting started
 
-TODO
+### Add dependency
+
+```shell
+flutter pub add image_grid_layout
+```
+
+### Add import package
+
+```dart
+flutter pub add image_grid_layout
+```
 
 ## Usage
 
