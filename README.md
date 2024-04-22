@@ -2,9 +2,11 @@
 
 A simple flutter widget that displays Image widgets in a lively layout.
 
+<p float="left">
+    <img src="https://github.com/dl8sd11/flutter_image_grid/blob/main/example/repo/phone.png?raw=true" height="400">
+    <img src="https://github.com/dl8sd11/flutter_image_grid/blob/main/example/repo/browser.png?row=true" height="400">
+</p>
 
-![image](https://github.com/dl8sd11/flutter_image_grid/blob/main/example/repo/phone.png?raw=true)
-![image](https://github.com/dl8sd11/flutter_image_grid/blob/main/example/repo/browser.png?row=true)
 
 ## Features
 
